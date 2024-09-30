@@ -1,1 +1,3 @@
 ikinci dosyadaki ilk cümle
+
+test dosyasında ve brnach_1 de yazılan ilk cümle
